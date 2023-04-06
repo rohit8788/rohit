@@ -10,18 +10,9 @@ this is my first assignment on git and github
      git commit -m "best of luck"
      git remote add new repo https://github.com/rohit8788/rohit.git
      git remote add newrepo https://github.com/rohit8788/rohit.git
-     git push -u newrepo main
-                               master branch
-         --mirror[=(push|fetch)]
-                               set up remote as a mirror to push to or fetch from
+    
+                           
      [root@ip-172-31-6-91 hub]# git remote add newrepo https://github.com/rohit8788/rohit.git
      [root@ip-172-31-6-91 hub]# git push -u newrepo main
-     Username for 'https://github.com': rohit8788
-     Password for 'https://rohit8788@github.com':
-     remote: Support for password authentication was removed on August 13, 2021.
-     git push -u newrepo main
-     ls
-     cd hub/
-     ls
      git push -u newrepo main
 
