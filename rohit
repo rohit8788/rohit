@@ -1,18 +1,8 @@
-this is my first assignment on git and github
+
+hy you fucking rohit pls accept pull request!
 
 
- git init
-     vim rohit
-     git status
-     git add .
-     git status
-     git branch -M main
-     git commit -m "best of luck"
-     git remote add new repo https://github.com/rohit8788/rohit.git
-     git remote add newrepo https://github.com/rohit8788                     
-     [root@ip-172-31-6-91 hub]# git remote add newrepo https://github.com/rohit8788/rohit.git
-     [root@ip-172-31-6-91 hub]# git push -u newrepo main
-     git push -u newrepo main
+ 
 
 
 
